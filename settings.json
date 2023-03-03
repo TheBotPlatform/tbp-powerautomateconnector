@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_the-20bot-20platform-5f326845e8480d5c80-5f91bf710583566553",
+  "environment": "Default-a87005c6-c662-4462-894d-2c4be87e5f1f",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
