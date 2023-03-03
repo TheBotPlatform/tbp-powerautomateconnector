@@ -1,1 +1,1 @@
-# tbp-powerautomateconnector
+The Bot Platform Power Automate connector
